@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846123641354",
+    "project_id": "career-and-counselling-a-ab6f1",
+    "storage_bucket": "career-and-counselling-a-ab6f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846123641354:android:12117894f52c06ef6e4df3",
+        "android_client_info": {
+          "package_name": "com.cnc.cnc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846123641354-jsqkdmbofevq2a89q9i3bkjan3hdjmut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2rM2QCjRAsfM-8gMIy2jlRSMdn9KSc64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846123641354-jsqkdmbofevq2a89q9i3bkjan3hdjmut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
